@@ -1,0 +1,26 @@
+{
+  "name": "be_f8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngtson216/nodejs_BE_F8.git"
+  },
+  "author": "sonnt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ngtson216/nodejs_BE_F8/issues"
+  },
+  "homepage": "https://github.com/ngtson216/nodejs_BE_F8#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
